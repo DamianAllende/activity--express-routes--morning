@@ -1,7 +1,6 @@
 {
   "name": "starter-repo--express-routes",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agzeri/starter-repo--express-routes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agzeri/starter-repo--express-routes/issues"
+  },
+  "homepage": "https://github.com/agzeri/starter-repo--express-routes#readme",
+  "description": ""
 }
